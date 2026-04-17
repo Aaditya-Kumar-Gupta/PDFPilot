@@ -1,0 +1,18 @@
+22 vnd.com.sun.star.wiki%3AsendDialog d6 Выберыце сервер MediaWiki, на якім вы жадаеце апублікаваць свой дакумент. Націсніце Дадаць, каб дадаць новы сервер у спіс.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList d6 Выберыце сервер MediaWiki, на якім вы жадаеце апублікаваць свой дакумент. Націсніце Дадаць, каб дадаць новы сервер у спіс.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck cb Выберыце гэты параметр, каб пазначаць укладзеныя старонкі як дробныя праўкі ў наяўнай старонцы з такой назвай.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 184 Увядзіце назву вашага вікі-артыкула. Гэта будзе ягоны загаловак. Для новага артыкула, загаловак мусіць быць унікальным у гэтай вікі. Калі ўпісаць загаловак, які ўжо ёсць, ваша укладанне перапіша наяўную старонку.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck ac Пазначце гэты параметр, каб адкрыць сістэмны вэб-браўзер і паказаць укладзеную вікі-старонку.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 62 Увядзіце кароткі змест або каментарый (неабавязкова).
+1f vnd.com.sun.star.wiki%3Aaccount 5d Увядзіце URL-адрас сервера MediaWiki, пачынаючы з «https://».
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 98 Увядзіце свой пароль на серверы MediaWiki. Пакіньце поле пустым для ананімнага доступу.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 5d Увядзіце URL-адрас сервера MediaWiki, пачынаючы з «https://».
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField ad Увядзіце сваё імя карыстальніка на серверы MediaWiki. Пакіньце поле пустым для ананімнага доступу.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox ee Уключыце, каб захоўваць пароль паміж сеансамі. Галоўны пароль павінен быць уключаны; гл. Інструменты - Параметры - %PRODUCTNAME - Бяспека.
+20 vnd.com.sun.star.wiki%3Aaboutbox f4 З дапамогай Wiki Publisher можна пакласці дакументWriter на сервер MediaWiki. Пасля такога ўкладання ўсе карыстальнікі вікі ўбачаць гэты дакумент.
+1c vnd.com.sun.star.wiki%3Asend 97 Выберыце Файл - Адаслаць - У MediaWiki, каб укласці бягучы дакумент Writer-а на сервер MediaWiki.
+20 vnd.com.sun.star.wiki%3Asettings 15e Націсніце «Дадаць», каб дадаць новы вікі-сервер.Выберыце запіс і націсніце «Рэдагаваць», каб змяніць налады ўліковага запісу.Выберыце запіс і націсніце «Выдаліць», каб выдаліць яго са спісу.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 39 Выдаляе выбраны запіс са спісу.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 75 Адчыняе дыялогавае акно MediaWiki для рэдагавання выбранага запісу.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 15e Націсніце «Дадаць», каб дадаць новы вікі-сервер.Выберыце запіс і націсніце «Рэдагаваць», каб змяніць налады ўліковага запісу.Выберыце запіс і націсніце «Выдаліць», каб выдаліць яго са спісу.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 73 Адчыняе дыялогавае акно MediaWiki для дадання новага запісу ў спіс.

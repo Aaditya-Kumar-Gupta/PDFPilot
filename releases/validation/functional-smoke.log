@@ -1,0 +1,19 @@
+﻿COMMAND: C:\Users\adity\pdf-tool\.venv\Scripts\python.exe scripts\release_functional_smoke.py --output-root C:\Users\adity\pdf-tool\releases\validation\functional --json-report C:\Users\adity\pdf-tool\releases\validation\functional-smoke.json --markdown-report C:\Users\adity\pdf-tool\releases\validation\functional-smoke.md
+EXIT CODE: 0
+
+STDOUT:
+Functional smoke report: C:\Users\adity\pdf-tool\releases\validation\functional-smoke.md
+
+
+STDERR:
+[INFO] Start to convert C:\Users\adity\pdf-tool\runtime_tests\sample1.pdf
+[INFO] [1;36m[1/4] Opening document...[0m
+[INFO] [1;36m[2/4] Analyzing document...[0m
+[INFO] [1;36m[3/4] Parsing pages...[0m
+[INFO] (1/2) Page 1
+[INFO] (2/2) Page 2
+[INFO] [1;36m[4/4] Creating pages...[0m
+[INFO] (1/2) Page 1
+[INFO] (2/2) Page 2
+[INFO] Terminated in 0.04s.
+

@@ -1,0 +1,432 @@
+{
+  "created_utc": "2026-04-17T20:08:36.779134+00:00",
+  "status": "passed",
+  "fixture_root": "C:\\Users\\adity\\pdf-tool\\runtime_tests",
+  "output_root": "C:\\Users\\adity\\pdf-tool\\releases\\validation\\functional",
+  "office_renderer": {
+    "available": true,
+    "mode": "bundled-libreoffice",
+    "soffice_path": "C:\\Users\\adity\\pdf-tool\\vendor\\libreoffice\\program\\soffice.exe",
+    "details": "C:\\Users\\adity\\pdf-tool\\vendor\\libreoffice\\program\\soffice.exe"
+  },
+  "tesseract": {
+    "available": true,
+    "summary": "Tesseract OCR auto-detected",
+    "details": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+  },
+  "cases": [
+    {
+      "name": "merge_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.724793+00:00",
+      "finished_utc": "2026-04-17T20:08:07.744004+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 3,
+        "bytes": 2087
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "split_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.744246+00:00",
+      "finished_utc": "2026-04-17T20:08:07.746711+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 1,
+        "bytes": 965
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "remove_pages",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.746930+00:00",
+      "finished_utc": "2026-04-17T20:08:07.749626+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 1,
+        "bytes": 965
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "organize_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.750008+00:00",
+      "finished_utc": "2026-04-17T20:08:07.752918+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1426
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "rotate_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.753139+00:00",
+      "finished_utc": "2026-04-17T20:08:07.755964+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1426
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "compress_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.756178+00:00",
+      "finished_utc": "2026-04-17T20:08:07.767892+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1659
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "repair_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.768171+00:00",
+      "finished_utc": "2026-04-17T20:08:07.779541+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1419
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "image_to_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.779836+00:00",
+      "finished_utc": "2026-04-17T20:08:07.875013+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 4317
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "scan_to_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.875283+00:00",
+      "finished_utc": "2026-04-17T20:08:07.895992+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 4317
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "pdf_to_jpg",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.896258+00:00",
+      "finished_utc": "2026-04-17T20:08:07.986988+00:00",
+      "details": {
+        "files": [
+          {
+            "kind": "jpg",
+            "bytes": 24018
+          },
+          {
+            "kind": "jpg",
+            "bytes": 20839
+          }
+        ]
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "pdf_to_word",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:07.987241+00:00",
+      "finished_utc": "2026-04-17T20:08:09.603844+00:00",
+      "details": {
+        "kind": "docx",
+        "bytes": 35552
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "pdf_to_powerpoint",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:09.604080+00:00",
+      "finished_utc": "2026-04-17T20:08:10.540053+00:00",
+      "details": {
+        "kind": "pptx",
+        "bytes": 48107
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "pdf_to_excel",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:10.540323+00:00",
+      "finished_utc": "2026-04-17T20:08:11.404706+00:00",
+      "details": {
+        "kind": "xlsx",
+        "bytes": 26862
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "pdf_to_pdfa",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.404936+00:00",
+      "finished_utc": "2026-04-17T20:08:11.420688+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1435
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "page_numbers",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.420953+00:00",
+      "finished_utc": "2026-04-17T20:08:11.447158+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1928
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "watermark",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.447481+00:00",
+      "finished_utc": "2026-04-17T20:08:11.454544+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 2464
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "annotate_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.454778+00:00",
+      "finished_utc": "2026-04-17T20:08:11.459810+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 2049
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "crop_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.460049+00:00",
+      "finished_utc": "2026-04-17T20:08:11.463037+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1499
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "protect_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.463263+00:00",
+      "finished_utc": "2026-04-17T20:08:11.476923+00:00",
+      "details": {
+        "kind": "pdf",
+        "encrypted": true,
+        "bytes": 1824
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "unlock_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.477888+00:00",
+      "finished_utc": "2026-04-17T20:08:11.485515+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 1425
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "sign_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.485750+00:00",
+      "finished_utc": "2026-04-17T20:08:11.520097+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 926474
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "compare_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.520417+00:00",
+      "finished_utc": "2026-04-17T20:08:11.523633+00:00",
+      "details": {
+        "kind": "txt",
+        "bytes": 149
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "redact_pdf",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.523839+00:00",
+      "finished_utc": "2026-04-17T20:08:11.536753+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 2344
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "office_to_pdf_word",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:11.537055+00:00",
+      "finished_utc": "2026-04-17T20:08:20.797012+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 71954,
+        "render_mode": "bundled-libreoffice"
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "office_to_pdf_powerpoint",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:20.797266+00:00",
+      "finished_utc": "2026-04-17T20:08:25.570205+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 2,
+        "bytes": 71625,
+        "render_mode": "bundled-libreoffice"
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "office_to_pdf_excel",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:25.570490+00:00",
+      "finished_utc": "2026-04-17T20:08:32.507415+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 18,
+        "bytes": 101040,
+        "render_mode": "bundled-libreoffice"
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "office_to_pdf_csv",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:32.507690+00:00",
+      "finished_utc": "2026-04-17T20:08:36.740547+00:00",
+      "details": {
+        "kind": "pdf",
+        "pages": 1,
+        "bytes": 27061,
+        "render_mode": "bundled-libreoffice"
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "invalid_empty_selection",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:36.740811+00:00",
+      "finished_utc": "2026-04-17T20:08:36.740835+00:00",
+      "details": {
+        "expected_error": "Please choose at least one input file."
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "invalid_page_range",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:36.741040+00:00",
+      "finished_utc": "2026-04-17T20:08:36.741726+00:00",
+      "details": {
+        "expected_error": "No valid page selection was provided."
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "invalid_wrong_password",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:36.741935+00:00",
+      "finished_utc": "2026-04-17T20:08:36.755829+00:00",
+      "details": {
+        "expected_error": "Incorrect PDF password."
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "cancelled_operation",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:36.756117+00:00",
+      "finished_utc": "2026-04-17T20:08:36.756207+00:00",
+      "details": {
+        "expected_error": "Operation cancelled."
+      },
+      "error": "",
+      "trace": ""
+    },
+    {
+      "name": "encrypted_pdfa_rejected",
+      "status": "passed",
+      "started_utc": "2026-04-17T20:08:36.765345+00:00",
+      "finished_utc": "2026-04-17T20:08:36.769748+00:00",
+      "details": {
+        "expected_error": "PDF to PDF/A cannot process encrypted PDFs. Unlock the PDF first."
+      },
+      "error": "",
+      "trace": ""
+    }
+  ]
+}

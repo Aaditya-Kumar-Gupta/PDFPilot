@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<oor:component-schema xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" oor:name="Lightproof_hu_HU" oor:package="org.openoffice" xml:lang="en-US">
+  <info>
+
+Contains the options data used for the test extensions.
+</info>
+  <templates>
+    <group oor:name="hu_HU">
+      <info>
+                                The data for one leaf.
+                        </info>
+      <prop oor:name="cap" oor:type="xs:string">
+        <info>The cap definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="par" oor:type="xs:string">
+        <info>The par definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="quot" oor:type="xs:string">
+        <info>The quot definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="wordpart" oor:type="xs:string">
+        <info>The wordpart definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="dash" oor:type="xs:string">
+        <info>The dash definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="comma" oor:type="xs:string">
+        <info>The comma definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="numpart" oor:type="xs:string">
+        <info>The numpart definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="grammar" oor:type="xs:string">
+        <info>The grammar definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="style" oor:type="xs:string">
+        <info>The style definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="dup0" oor:type="xs:string">
+        <info>The dup0 definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="compound" oor:type="xs:string">
+        <info>The compound definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="dup" oor:type="xs:string">
+        <info>The dup definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="allcompound" oor:type="xs:string">
+        <info>The allcompound definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="dup2" oor:type="xs:string">
+        <info>The dup2 definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="money" oor:type="xs:string">
+        <info>The money definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="dup3" oor:type="xs:string">
+        <info>The dup3 definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="SI" oor:type="xs:string">
+        <info>The SI definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="hyphen" oor:type="xs:string">
+        <info>The hyphen definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="apost" oor:type="xs:string">
+        <info>The apost definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="spaces" oor:type="xs:string">
+        <info>The spaces definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="frac" oor:type="xs:string">
+        <info>The frac definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="ligature" oor:type="xs:string">
+        <info>The ligature definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="elli" oor:type="xs:string">
+        <info>The elli definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="spaces2" oor:type="xs:string">
+        <info>The spaces2 definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="thin" oor:type="xs:string">
+        <info>The thin definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="noligature" oor:type="xs:string">
+        <info>The noligature definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="idx" oor:type="xs:string">
+        <info>The idx definition of one leaf.</info>
+        <value/>
+      </prop>
+      <prop oor:name="minus" oor:type="xs:string">
+        <info>The minus definition of one leaf.</info>
+        <value/>
+      </prop>
+    </group>
+  </templates>
+  <component>
+    <group oor:name="Leaves">
+      <info>
+                        The list of leaves.
+                    </info>
+      <node-ref oor:name="hu_HU" oor:node-type="hu_HU">
+        <info>
+                                The definition of one leaf.
+                            </info>
+      </node-ref>
+    </group>
+  </component>
+</oor:component-schema>

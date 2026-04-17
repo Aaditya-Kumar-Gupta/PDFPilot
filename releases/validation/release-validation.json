@@ -1,0 +1,172 @@
+﻿{
+    "createdUtc":  "2026-04-17T20:08:37.1834753Z",
+    "status":  "failed",
+    "allowUnsigned":  false,
+    "artifacts":  {
+                      "msix":  {
+                                   "path":  "C:\\Users\\adity\\pdf-tool\\releases\\PDFPilot-Store.msix",
+                                   "length":  157421950,
+                                   "lastWriteTime":  "2026-04-18T00:18:28.9496711+05:30",
+                                   "sha256":  "D813BDBAAD5F5D1CD907C32E80B2904AE927DBEE600AB3B2D441D70D7262DB41",
+                                   "signatureStatus":  "NotSigned",
+                                   "signatureMessage":  "The file C:\\Users\\adity\\pdf-tool\\releases\\PDFPilot-Store.msix is not digitally signed. You cannot run this script on the current system. For more information about running scripts and setting execution policy, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170",
+                                   "signerSubject":  "",
+                                   "signerThumbprint":  "",
+                                   "versionInfo":  {
+                                                       "fileVersion":  null,
+                                                       "productVersion":  null,
+                                                       "productName":  null,
+                                                       "companyName":  null
+                                                   }
+                               },
+                      "installer":  {
+                                        "path":  "C:\\Users\\adity\\pdf-tool\\releases\\PDFPilot-Setup.exe",
+                                        "length":  539212716,
+                                        "lastWriteTime":  "2026-04-18T00:07:39.2817542+05:30",
+                                        "sha256":  "7CBBB1378F32311D570664A706CF6A01C4EB87CAB1B81AEE9F83A0F2A776519E",
+                                        "signatureStatus":  "NotSigned",
+                                        "signatureMessage":  "The file C:\\Users\\adity\\pdf-tool\\releases\\PDFPilot-Setup.exe is not digitally signed. You cannot run this script on the current system. For more information about running scripts and setting execution policy, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170",
+                                        "signerSubject":  "",
+                                        "signerThumbprint":  "",
+                                        "versionInfo":  {
+                                                            "fileVersion":  "                    ",
+                                                            "productVersion":  "1.0.0                                             ",
+                                                            "productName":  "PDFPilot                                                    ",
+                                                            "companyName":  "PDFPilot                                                    "
+                                                        }
+                                    }
+                  },
+    "checks":  [
+                   {
+                       "name":  "production_signatures",
+                       "status":  "failed",
+                       "message":  "Both release artifacts must have valid production signatures unless -AllowUnsigned is supplied.",
+                       "details":  {
+                                       "installer":  "NotSigned",
+                                       "msix":  "NotSigned"
+                                   }
+                   },
+                   {
+                       "name":  "unit_tests",
+                       "status":  "passed",
+                       "message":  "C:\\Users\\adity\\pdf-tool\\.venv\\Scripts\\python.exe -m unittest discover -s tests",
+                       "details":  {
+                                       "logPath":  "C:\\Users\\adity\\pdf-tool\\releases\\validation\\unit-tests.log",
+                                       "exitCode":  0
+                                   }
+                   },
+                   {
+                       "name":  "functional_smoke",
+                       "status":  "passed",
+                       "message":  "C:\\Users\\adity\\pdf-tool\\.venv\\Scripts\\python.exe scripts\\release_functional_smoke.py --output-root C:\\Users\\adity\\pdf-tool\\releases\\validation\\functional --json-report C:\\Users\\adity\\pdf-tool\\releases\\validation\\functional-smoke.json --markdown-report C:\\Users\\adity\\pdf-tool\\releases\\validation\\functional-smoke.md",
+                       "details":  {
+                                       "logPath":  "C:\\Users\\adity\\pdf-tool\\releases\\validation\\functional-smoke.log",
+                                       "exitCode":  0
+                                   }
+                   },
+                   {
+                       "name":  "msix_manifest_identity",
+                       "status":  "passed",
+                       "message":  "MSIX package identity name is PDFPilot.",
+                       "details":  {
+                                       "publisher":  "CN=PDFPilot",
+                                       "architecture":  "x64",
+                                       "name":  "PDFPilot",
+                                       "version":  "1.0.0.0"
+                                   }
+                   },
+                   {
+                       "name":  "msix_manifest_version",
+                       "status":  "passed",
+                       "message":  "MSIX version uses four-part package version format.",
+                       "details":  "1.0.0.0"
+                   },
+                   {
+                       "name":  "msix_manifest_architecture",
+                       "status":  "passed",
+                       "message":  "MSIX architecture is x64.",
+                       "details":  "x64"
+                   },
+                   {
+                       "name":  "msix_manifest_executable",
+                       "status":  "passed",
+                       "message":  "MSIX executable points at app\\PDFPilot.exe.",
+                       "details":  "app\\PDFPilot.exe"
+                   },
+                   {
+                       "name":  "msix_manifest_full_trust",
+                       "status":  "passed",
+                       "message":  "MSIX declares full-trust desktop app capability.",
+                       "details":  {
+                                       "entryPoint":  "Windows.FullTrustApplication",
+                                       "capabilities":  [
+                                                            "runFullTrust"
+                                                        ]
+                                   }
+                   },
+                   {
+                       "name":  "msix_store_assets",
+                       "status":  "passed",
+                       "message":  "MSIX contains required Store visual assets.",
+                       "details":  {
+                                       "displayName":  "PDFPilot",
+                                       "missing":  [
+
+                                                   ]
+                                   }
+                   },
+                   {
+                       "name":  "msix_excludes_bundled_libraries",
+                       "status":  "passed",
+                       "message":  "Store package excludes bundled LibreOffice and Tesseract payloads.",
+                       "details":  {
+                                       "containsTesseract":  false,
+                                       "containsLibreOffice":  false
+                                   }
+                   },
+                   {
+                       "name":  "msix_excludes_incompatible_docx_template",
+                       "status":  "passed",
+                       "message":  "MSIX excludes python-docx exploded template files that makeappx rejects.",
+                       "details":  {
+                                       "containsDefaultDocxTemplate":  false
+                                   }
+                   },
+                   {
+                       "name":  "installer_desktop_build_root_exists",
+                       "status":  "passed",
+                       "message":  "Desktop build root exists for installer payload validation.",
+                       "details":  "C:\\Users\\adity\\pdf-tool\\dist\\desktop\\PDFPilot"
+                   },
+                   {
+                       "name":  "installer_contains_app_exe",
+                       "status":  "passed",
+                       "message":  "Desktop installer payload contains PDFPilot.exe.",
+                       "details":  "C:\\Users\\adity\\pdf-tool\\dist\\desktop\\PDFPilot\\PDFPilot.exe"
+                   },
+                   {
+                       "name":  "installer_contains_bundled_libreoffice",
+                       "status":  "passed",
+                       "message":  "Desktop installer payload includes bundled LibreOffice renderer.",
+                       "details":  "C:\\Users\\adity\\pdf-tool\\dist\\desktop\\PDFPilot\\_internal\\vendor\\libreoffice\\program\\soffice.exe"
+                   },
+                   {
+                       "name":  "installer_admin_privileges",
+                       "status":  "passed",
+                       "message":  "Installer requires admin privileges as expected.",
+                       "details":  "PrivilegesRequired=admin"
+                   },
+                   {
+                       "name":  "installer_shortcuts_configured",
+                       "status":  "passed",
+                       "message":  "Installer defines Start menu and optional desktop shortcuts.",
+                       "details":  null
+                   },
+                   {
+                       "name":  "installer_uninstall_cleanup_configured",
+                       "status":  "passed",
+                       "message":  "Installer has uninstall cleanup for app directory.",
+                       "details":  null
+                   }
+               ]
+}

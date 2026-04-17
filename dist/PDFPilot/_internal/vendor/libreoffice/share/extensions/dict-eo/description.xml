@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <version value="2018.01.21" />
+  <identifier value="esperanto.eo" />
+  <display-name>
+    <name lang="en-US">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ab">Аорфографиатә жәар, аиагара аԥҟарақәеи атезауруси есперанто азы</name>
+        <name lang="af">Spellingwoordeboek, thesaurus en afbreekreëls vir Esperanto</name>
+        <name lang="am">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ar">قاموس التدقيق الإملائي و المترادفات ومُنشيء الواصلات للإسبرانتو</name>
+        <name lang="as">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ast">Diccionariu ortográficu, de sinónimos y regles de corte de pallabres pa esperantu</name>
+        <name lang="be">Арфаграфічны слоўнік, тэзаўрус і правілы пераносу слоў для эсперанта</name>
+        <name lang="bg">Правописен и синонимен речник и сричкопренасяне за есперанто</name>
+        <name lang="bn">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="bn-IN">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="bo">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="br">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="brx">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="bs">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ca">Esperanto: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)</name>
+        <name lang="ca-valencia">Esperanto: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)</name>
+        <name lang="ckb">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="cs">Slovník kontroly pravopisu, dělení slov a slovník synonym pro esperanto</name>
+        <name lang="cy">Esperanto - geiriadur sillafu, thesawrws a chysylltnodydd</name>
+        <name lang="da">Esperanto stavekontrol, orddelingsregler og synonymordbog</name>
+        <name lang="de">Esperanto-Wörterbuch für Rechtschreibprüfung, Thesaurus und Silbentrennung</name>
+        <name lang="dgo">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="dsb">Pšawopisny słownik, tezawrus a źělenje złožkow za esperanto</name>
+        <name lang="dz">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="el">Ορθογραφικό λεξικό, θησαυρός και συλλαβιστής για Εσπεράντο</name>
+        <name lang="en-GB">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="en-ZA">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="eo">Literumada kaj vortdivida vortaroj, tezaŭro por Esperanto</name>
+        <name lang="es">Esperanto: corrector ortográfico, sinónimos y reglas de silabación</name>
+        <name lang="et">Esperanto keele õigekirjakontrolli sõnastik, poolitusreeglid ja tesaurus</name>
+        <name lang="eu">Esperantoaren ortografia-egiaztatzailea, thesaurusa eta hitzak zatitzeko arauak</name>
+        <name lang="fa">واژه‌نامهٔ املایی، اصطلاح‌نامه، و خط فاصله گذاری برای اسپرانتو</name>
+        <name lang="fi">Esperanton oikolukusanasto, synonyymisanasto ja tavutus</name>
+        <name lang="fr">Dictionnaires d'orthographe, de synonymes et de coupure de mot pour l'espéranto</name>
+        <name lang="fur">Dizionari ortografic, dai sinonims e di silabazion pal Esperanto</name>
+        <name lang="fy">Stavering wurdboek, synonimenlist en ôfbrek regels foar Esperanto</name>
+        <name lang="ga">Litreoir, foclóir comhchiallaigh, agus fleiscíneoir don Esperanto</name>
+        <name lang="gd">Faclair litreachadh, co-fhaclair is tàthanaiche na h-Esperanto</name>
+        <name lang="gl">Dicionario ortográfico, de sinónimos e guionizador para esperanto</name>
+        <name lang="gu">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="gug">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="he">מילון איות, אגרון ופיסוק אוטומטי לאספרנטו.</name>
+        <name lang="hi">एस्पेरान्तो के लिए स्पेलिंग डिक्शनरी, थिसॉरस और हाइफेनेटर</name>
+        <name lang="hr">Rječnik za računalnu provjeru pravopisa, rječnik sinonima i pravila za rastavljanje riječi za esperanto.</name>
+        <name lang="hsb">Prawopisny słownik, tezawrus a dźělenje złóžkow za esperanto</name>
+        <name lang="hu">Eszperantó helyesírási szótár, elválasztási szabályok és szinonimaszótár</name>
+        <name lang="hy">Էսպերանտոյի համար ուղղագրական բառարան, թեզաուրուս և գծիկ</name>
+        <name lang="id">Kamus ejaan, tesaurus, dan tanda hubung untuk Esperanto</name>
+        <name lang="is">Stafsetningarorðasafn, orðskiptireglur og samheitaorðasafn fyrir Esperantó</name>
+        <name lang="it">Dizionario ortografico, dei sinonimi e di sillabazione per l'Esperanto</name>
+        <name lang="ja">エスペラント語スペル辞書、類義語辞典、ハイフネーター</name>
+        <name lang="ka">მართლწერის ლექსიკონი, გადატანის წესები და თეზაურუსი ესპერანტოსთვის</name>
+        <name lang="kab">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="kk">Эсперанто үшін емле сөздігі, тезаурус және тасымалдаушы</name>
+        <name lang="km">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="kmr-Latn">Ji bo zimanê Esperanto ferhenga rastnivîs, peyvên hevwate û rêbazên kîtekirinê</name>
+        <name lang="kn">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ko">에스페란토어 맞춤법 사전, 동의어 사전 및 하이픈 연결 규칙</name>
+        <name lang="kok">एस्पेरान्तोसाठी वर्तणूक शब्दकोश, समानार्थक शब्दसंचय आणि हायफेनेटर</name>
+        <name lang="ks">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="lb">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="lo">ວັດຈະນານຸກົມການສະກົດຄຳ, ວັດຈະນານຸກົມຄຳສັບຄ້າຍຄື ແລະ ເຄື່ອງມືຂີດຕໍ່ພະຍາງ ສຳລັບ ພາສາເອສເປີຣັນໂຕ</name>
+        <name lang="lt">Esperanto kalbos rašybos tikrinimo, žodžių kėlybos ir tezauro žodynai</name>
+        <name lang="lv">Pareizrakstības vārdnīca, tēzaurs un zilbju dalītājs esperanto valodai</name>
+        <name lang="mai">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="mk">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ml">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="mn">Эсперанто хэлний зөв бичгийн дүрмийн толь бичиг, тезаурус, зураас</name>
+        <name lang="mni">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="mr">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="my">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="nb">Staveordbok, synonymordbok og orddeling for Esperanto</name>
+        <name lang="ne">एस्पेरान्तोको लागि हिज्जे शब्दकोश, थेजारस, र  हाइफनकर्ता</name>
+        <name lang="nl">Spellingswoordenboek, thesaurus en afbreekregels voor Esperanto</name>
+        <name lang="nn">Rettskrivingsordbok, synonymordbok og orddeling for Esperanto</name>
+        <name lang="nr">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="nso">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="oc">Diccionari d'ortografia, dels sinonims e règla de copadura dels mots en Esperanto</name>
+        <name lang="om">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="or">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="pa-IN">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="pl">Esperancki słownik ortograficzny, reguły dzielenia wyrazów i słownik wyrazów bliskoznacznych</name>
+        <name lang="pt">Dicionário orográfico, sinónimos e regras de hifenização para esperanto.</name>
+        <name lang="pt-BR">Dicionário ortográfico, de sinônimos e de hifenização para esperanto</name>
+        <name lang="ro">Dicționar ortografic, de sinonime și de despărțire în silabe pentru esperanto</name>
+        <name lang="ru">Орфографический словарь, правила переноса и тезаурус для эсперанто</name>
+        <name lang="rw">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sa-IN">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sat">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sat-Olck">ᱵᱚᱱᱟᱱ ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ, ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ, ᱟᱨ ᱮᱥᱯᱟᱨᱮᱱᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱟᱨᱪᱟᱤᱭᱟᱹ</name>
+        <name lang="sd">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="si">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sid">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sk">Slovník na kontrolu pravopisu, pravidlá delenia slov a tezaurus pre esperanto</name>
+        <name lang="sl">Esperanto – slovar za preverjanje črkovanja, vzorci za deljenje besed in slovar sopomenk</name>
+        <name lang="sq">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sr">Провера писања, речник синонима и правила прелома речи за есперанто.</name>
+        <name lang="sr-Latn">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ss">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="st">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="sv">Stavningsordbok, synonymordbok och avstavning för Esperanto</name>
+        <name lang="sw-TZ">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="szl">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ta">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="te">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="tg">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="th">พจนานุกรมสะกดคำ, อรรถาภิธาน, และการแทรกยัติภังค์สำหรับภาษาเอสเปรันโต</name>
+        <name lang="tl">Spelling dictionary, thesaurus, at hyphenator para sa Esperanto</name>
+        <name lang="tn">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="tr">Esperanto dili için imla sözlüğü, eş anlamlılar sözlüğü ve heceleme kuralları</name>
+        <name lang="ts">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="tt">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ug">دۇنيا تىلى ئىملا لۇغىتى، مەنىداش سۆزلەر لۇغىتى ۋە ھەرپ ئۇلىغۇچ</name>
+        <name lang="uk">Орфографічний словник, тезаурус і правила переносу для есперанто</name>
+        <name lang="uz">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="ve">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="vec">Coretor ortogràfego, règołe de siłabasion e disionaro de i sinònemi de l'Esperanto</name>
+        <name lang="vi">Từ điển chính tả, từ điển đồng nghĩa, và dấu gạch nối cho Quốc tế ngữ</name>
+        <name lang="xh">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+        <name lang="zh-CN">世界语拼写词典、同义词库与断词规则</name>
+        <name lang="zh-TW">世界語拼寫詞典、同義詞庫、斷字處理規則</name>
+        <name lang="zu">Spelling dictionary, thesaurus, and hyphenator for Esperanto</name>
+    <name lang="ru">Словарь проверки орфографии, тезаурус и правила переноса для эсперанто</name>
+    <name lang="eo">Vortaro por literumado, tezaŭro kaj reguloj de vortodivido por Esperanto</name>
+  </display-name>
+  <platform value="all" />
+  <dependencies>
+    <OpenOffice.org-minimal-version value="3.4" d:name="OpenOffice.org 3.4" />
+  </dependencies>
+  <extension-description>
+    <src xlink:href="desc_eo.txt" lang="eo" />
+    <src xlink:href="desc_en.txt" lang="en" />
+  </extension-description>
+  <registration>
+    <simple-license accept-by="admin" default-license-id="en" suppress-if-required="true">
+      <license-text xlink:href="license-en.txt" lang="en" license-id="en" />
+    </simple-license>
+  </registration>
+</description>

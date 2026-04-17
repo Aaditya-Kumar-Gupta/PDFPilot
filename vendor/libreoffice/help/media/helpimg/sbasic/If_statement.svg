@@ -1,0 +1,143 @@
+<svg class="railroad-diagram" width="820" height="101" viewBox="0 0 820 101" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g class="terminal ">
+<path d="M50 40h0"></path>
+<path d="M86 40h0"></path>
+<rect x="50" y="29" width="36" height="22" rx="10" ry="10"></rect>
+<text x="68" y="44">If</text>
+</g>
+<path d="M86 40h10"></path>
+<path d="M96 40h10"></path>
+<g>
+<path d="M106 40h0"></path>
+<path d="M410 40h0"></path>
+<path d="M106 40h10"></path>
+<g>
+<path d="M116 40h0"></path>
+<path d="M400 40h0"></path>
+<g class="terminal ">
+<path d="M116 40h0"></path>
+<path d="M208 40h0"></path>
+<rect x="116" y="29" width="92" height="22" rx="10" ry="10"></rect>
+<text x="162" y="44">condition</text>
+</g>
+<path d="M208 40h10"></path>
+<path d="M218 40h10"></path>
+<g class="terminal ">
+<path d="M228 40h0"></path>
+<path d="M280 40h0"></path>
+<rect x="228" y="29" width="52" height="22" rx="10" ry="10"></rect>
+<text x="254" y="44">Then</text>
+</g>
+<path d="M280 40h10"></path>
+<path d="M290 40h10"></path>
+<g class="terminal ">
+<path d="M300 40h0"></path>
+<path d="M400 40h0"></path>
+<rect x="300" y="29" width="100" height="22" rx="10" ry="10"></rect>
+<text x="350" y="44">statements</text>
+</g>
+</g>
+<path d="M400 40h10"></path>
+<path d="M116 40a10 10 0 0 0 -10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M116 70h108"></path>
+<path d="M292 70h108"></path>
+<rect x="224" y="59" width="68" height="22" rx="10" ry="10"></rect>
+<text x="258" y="74">ElseIf</text>
+</g>
+<path d="M400 70a10 10 0 0 0 10 -10v-10a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M410 40h10"></path>
+<g>
+<path d="M420 40h0"></path>
+<path d="M632 40h0"></path>
+<path d="M420 40h20"></path>
+<g>
+<path d="M440 40h172"></path>
+</g>
+<path d="M612 40h20"></path>
+<path d="M420 40a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M440 60h0"></path>
+<path d="M612 60h0"></path>
+<g class="terminal ">
+<path d="M440 60h0"></path>
+<path d="M492 60h0"></path>
+<rect x="440" y="49" width="52" height="22" rx="10" ry="10"></rect>
+<text x="466" y="64">Else</text>
+</g>
+<path d="M492 60h10"></path>
+<path d="M502 60h10"></path>
+<g class="terminal ">
+<path d="M512 60h0"></path>
+<path d="M612 60h0"></path>
+<rect x="512" y="49" width="100" height="22" rx="10" ry="10"></rect>
+<text x="562" y="64">statements</text>
+</g>
+</g>
+<path d="M612 60a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M632 40h0"></path>
+<path d="M780 40h0"></path>
+<path d="M632 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M652 20h108"></path>
+</g>
+<path d="M760 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M632 40h20"></path>
+<g>
+<path d="M652 40h0"></path>
+<path d="M760 40h0"></path>
+<path d="M652 40h20"></path>
+<g class="terminal ">
+<path d="M672 40h4"></path>
+<path d="M736 40h4"></path>
+<rect x="676" y="29" width="60" height="22" rx="10" ry="10"></rect>
+<text x="706" y="44">EndIf</text>
+</g>
+<path d="M740 40h20"></path>
+<path d="M652 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M672 70h0"></path>
+<path d="M740 70h0"></path>
+<rect x="672" y="59" width="68" height="22" rx="10" ry="10"></rect>
+<text x="706" y="74">End If</text>
+</g>
+<path d="M740 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M760 40h20"></path>
+</g>
+<path d="M 780 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+<style>
+    svg.railroad-diagram {
+        background-color:transparent;
+    }
+    svg.railroad-diagram path {
+        stroke-width:1;
+        stroke:black;
+        fill:rgba(0,0,0,0);
+    }
+    svg.railroad-diagram text {
+        font:bold 14px monospace;
+        font-family: Verdana, sans-serif;
+        text-anchor:middle;
+    }
+    svg.railroad-diagram text.label{
+        text-anchor:start;
+    }
+    svg.railroad-diagram text.comment{
+        font:italic 12px monospace;
+    }
+    svg.railroad-diagram rect{
+        stroke-width:1;
+        stroke:black;
+        fill:transparent;
+    }</style>
+</svg>

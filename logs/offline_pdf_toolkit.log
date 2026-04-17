@@ -1,0 +1,178 @@
+2026-04-07 18:58:06,325 | INFO | root | Start to convert C:\Users\adity\Downloads\V2X_Antenna_Project_Report (1) (1).pdf
+2026-04-07 18:58:06,328 | INFO | root | [1;36m[1/4] Opening document...[0m
+2026-04-07 18:58:06,329 | INFO | root | [1;36m[2/4] Analyzing document...[0m
+2026-04-07 18:58:19,086 | INFO | root | [1;36m[3/4] Parsing pages...[0m
+2026-04-07 18:58:19,087 | INFO | root | (1/65) Page 1
+2026-04-07 18:58:19,091 | INFO | root | (2/65) Page 2
+2026-04-07 18:58:19,095 | INFO | root | (3/65) Page 3
+2026-04-07 18:58:19,100 | INFO | root | (4/65) Page 4
+2026-04-07 18:58:19,112 | INFO | root | (5/65) Page 5
+2026-04-07 18:58:19,124 | INFO | root | (6/65) Page 6
+2026-04-07 18:58:19,133 | INFO | root | (7/65) Page 7
+2026-04-07 18:58:19,137 | INFO | root | (8/65) Page 8
+2026-04-07 18:58:19,147 | INFO | root | (9/65) Page 9
+2026-04-07 18:58:19,154 | INFO | root | (10/65) Page 10
+2026-04-07 18:58:19,156 | INFO | root | (11/65) Page 11
+2026-04-07 18:58:19,248 | INFO | root | (12/65) Page 12
+2026-04-07 18:58:19,350 | INFO | root | (13/65) Page 13
+2026-04-07 18:58:19,360 | INFO | root | (14/65) Page 14
+2026-04-07 18:58:19,365 | INFO | root | (15/65) Page 15
+2026-04-07 18:58:19,377 | INFO | root | (16/65) Page 16
+2026-04-07 18:58:19,391 | INFO | root | (17/65) Page 17
+2026-04-07 18:58:19,432 | INFO | root | (18/65) Page 18
+2026-04-07 18:58:19,534 | INFO | root | (19/65) Page 19
+2026-04-07 18:58:19,536 | INFO | root | (20/65) Page 20
+2026-04-07 18:58:19,544 | INFO | root | (21/65) Page 21
+2026-04-07 18:58:19,553 | INFO | root | (22/65) Page 22
+2026-04-07 18:58:19,562 | INFO | root | (23/65) Page 23
+2026-04-07 18:58:19,566 | INFO | root | (24/65) Page 24
+2026-04-07 18:58:19,572 | INFO | root | (25/65) Page 25
+2026-04-07 18:58:19,712 | INFO | root | (26/65) Page 26
+2026-04-07 18:58:19,728 | INFO | root | (27/65) Page 27
+2026-04-07 18:58:19,729 | INFO | root | (28/65) Page 28
+2026-04-07 18:58:19,841 | INFO | root | (29/65) Page 29
+2026-04-07 18:58:19,849 | INFO | root | (30/65) Page 30
+2026-04-07 18:58:19,855 | INFO | root | (31/65) Page 31
+2026-04-07 18:58:19,890 | INFO | root | (32/65) Page 32
+2026-04-07 18:58:19,900 | INFO | root | (33/65) Page 33
+2026-04-07 18:58:19,906 | INFO | root | (34/65) Page 34
+2026-04-07 18:58:19,910 | INFO | root | (35/65) Page 35
+2026-04-07 18:58:20,023 | INFO | root | (36/65) Page 36
+2026-04-07 18:58:20,031 | INFO | root | (37/65) Page 37
+2026-04-07 18:58:20,033 | INFO | root | (38/65) Page 38
+2026-04-07 18:58:20,038 | INFO | root | (39/65) Page 39
+2026-04-07 18:58:20,040 | INFO | root | (40/65) Page 40
+2026-04-07 18:58:20,050 | INFO | root | (41/65) Page 41
+2026-04-07 18:58:20,072 | INFO | root | (42/65) Page 42
+2026-04-07 18:58:20,107 | INFO | root | (43/65) Page 43
+2026-04-07 18:58:20,109 | INFO | root | (44/65) Page 44
+2026-04-07 18:58:20,115 | INFO | root | (45/65) Page 45
+2026-04-07 18:58:20,118 | INFO | root | (46/65) Page 46
+2026-04-07 18:58:20,120 | INFO | root | (47/65) Page 47
+2026-04-07 18:58:20,184 | INFO | root | (48/65) Page 48
+2026-04-07 18:58:20,187 | INFO | root | (49/65) Page 49
+2026-04-07 18:58:20,193 | INFO | root | (50/65) Page 50
+2026-04-07 18:58:20,197 | INFO | root | (51/65) Page 51
+2026-04-07 18:58:20,270 | INFO | root | (52/65) Page 52
+2026-04-07 18:58:20,367 | INFO | root | (53/65) Page 53
+2026-04-07 18:58:20,420 | INFO | root | (54/65) Page 54
+2026-04-07 18:58:20,482 | INFO | root | (55/65) Page 55
+2026-04-07 18:58:20,493 | INFO | root | (56/65) Page 56
+2026-04-07 18:58:20,495 | INFO | root | (57/65) Page 57
+2026-04-07 18:58:20,507 | INFO | root | (58/65) Page 58
+2026-04-07 18:58:20,518 | INFO | root | (59/65) Page 59
+2026-04-07 18:58:20,523 | INFO | root | (60/65) Page 60
+2026-04-07 18:58:20,538 | INFO | root | (61/65) Page 61
+2026-04-07 18:58:20,567 | INFO | root | (62/65) Page 62
+2026-04-07 18:58:20,598 | INFO | root | (63/65) Page 63
+2026-04-07 18:58:20,667 | INFO | root | (64/65) Page 64
+2026-04-07 18:58:20,686 | INFO | root | (65/65) Page 65
+2026-04-07 18:58:20,690 | INFO | root | [1;36m[4/4] Creating pages...[0m
+2026-04-07 18:58:20,705 | INFO | root | (1/65) Page 1
+2026-04-07 18:58:20,722 | INFO | root | (2/65) Page 2
+2026-04-07 18:58:20,734 | INFO | root | (3/65) Page 3
+2026-04-07 18:58:20,747 | INFO | root | (4/65) Page 4
+2026-04-07 18:58:20,762 | INFO | root | (5/65) Page 5
+2026-04-07 18:58:20,768 | INFO | root | (6/65) Page 6
+2026-04-07 18:58:20,780 | INFO | root | (7/65) Page 7
+2026-04-07 18:58:20,788 | INFO | root | (8/65) Page 8
+2026-04-07 18:58:20,805 | INFO | root | (9/65) Page 9
+2026-04-07 18:58:20,932 | INFO | root | (10/65) Page 10
+2026-04-07 18:58:20,940 | INFO | root | (11/65) Page 11
+2026-04-07 18:58:21,252 | INFO | root | (12/65) Page 12
+2026-04-07 18:58:21,595 | INFO | root | (13/65) Page 13
+2026-04-07 18:58:21,615 | INFO | root | (14/65) Page 14
+2026-04-07 18:58:21,630 | INFO | root | (15/65) Page 15
+2026-04-07 18:58:21,652 | INFO | root | (16/65) Page 16
+2026-04-07 18:58:21,676 | INFO | root | (17/65) Page 17
+2026-04-07 18:58:21,776 | INFO | root | (18/65) Page 18
+2026-04-07 18:58:22,061 | INFO | root | (19/65) Page 19
+2026-04-07 18:58:22,067 | INFO | root | (20/65) Page 20
+2026-04-07 18:58:22,085 | INFO | root | (21/65) Page 21
+2026-04-07 18:58:22,102 | INFO | root | (22/65) Page 22
+2026-04-07 18:58:22,121 | INFO | root | (23/65) Page 23
+2026-04-07 18:58:22,138 | INFO | root | (24/65) Page 24
+2026-04-07 18:58:22,154 | INFO | root | (25/65) Page 25
+2026-04-07 18:58:22,570 | INFO | root | (26/65) Page 26
+2026-04-07 18:58:22,590 | INFO | root | (27/65) Page 27
+2026-04-07 18:58:22,598 | INFO | root | (28/65) Page 28
+2026-04-07 18:58:22,986 | INFO | root | (29/65) Page 29
+2026-04-07 18:58:23,004 | INFO | root | (30/65) Page 30
+2026-04-07 18:58:23,020 | INFO | root | (31/65) Page 31
+2026-04-07 18:58:23,104 | INFO | root | (32/65) Page 32
+2026-04-07 18:58:23,123 | INFO | root | (33/65) Page 33
+2026-04-07 18:58:23,142 | INFO | root | (34/65) Page 34
+2026-04-07 18:58:23,158 | INFO | root | (35/65) Page 35
+2026-04-07 18:58:23,438 | INFO | root | (36/65) Page 36
+2026-04-07 18:58:23,453 | INFO | root | (37/65) Page 37
+2026-04-07 18:58:23,466 | INFO | root | (38/65) Page 38
+2026-04-07 18:58:23,484 | INFO | root | (39/65) Page 39
+2026-04-07 18:58:23,491 | INFO | root | (40/65) Page 40
+2026-04-07 18:58:23,513 | INFO | root | (41/65) Page 41
+2026-04-07 18:58:23,589 | INFO | root | (42/65) Page 42
+2026-04-07 18:58:23,690 | INFO | root | (43/65) Page 43
+2026-04-07 18:58:23,716 | INFO | root | (44/65) Page 44
+2026-04-07 18:58:23,739 | INFO | root | (45/65) Page 45
+2026-04-07 18:58:23,759 | INFO | root | (46/65) Page 46
+2026-04-07 18:58:23,787 | INFO | root | (47/65) Page 47
+2026-04-07 18:58:24,002 | INFO | root | (48/65) Page 48
+2026-04-07 18:58:24,038 | INFO | root | (49/65) Page 49
+2026-04-07 18:58:24,067 | INFO | root | (50/65) Page 50
+2026-04-07 18:58:24,091 | INFO | root | (51/65) Page 51
+2026-04-07 18:58:24,318 | INFO | root | (52/65) Page 52
+2026-04-07 18:58:24,626 | INFO | root | (53/65) Page 53
+2026-04-07 18:58:24,793 | INFO | root | (54/65) Page 54
+2026-04-07 18:58:24,988 | INFO | root | (55/65) Page 55
+2026-04-07 18:58:25,008 | INFO | root | (56/65) Page 56
+2026-04-07 18:58:25,018 | INFO | root | (57/65) Page 57
+2026-04-07 18:58:25,043 | INFO | root | (58/65) Page 58
+2026-04-07 18:58:25,071 | INFO | root | (59/65) Page 59
+2026-04-07 18:58:25,086 | INFO | root | (60/65) Page 60
+2026-04-07 18:58:25,134 | INFO | root | (61/65) Page 61
+2026-04-07 18:58:25,203 | INFO | root | (62/65) Page 62
+2026-04-07 18:58:25,267 | INFO | root | (63/65) Page 63
+2026-04-07 18:58:25,366 | INFO | root | (64/65) Page 64
+2026-04-07 18:58:25,393 | INFO | root | (65/65) Page 65
+2026-04-07 18:58:25,838 | INFO | root | Terminated in 19.51s.
+2026-04-07 21:00:54,452 | ERROR | pdf_toolkit.utils.workers | Job failed
+Traceback (most recent call last):
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\utils\workers.py", line 47, in run
+    result = self.definition.executor(context)
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\pdf_to_powerpoint.py", line 14, in run
+    ensure_pdf_files(context.input_files)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\utils\file_utils.py", line 23, in ensure_pdf_files
+    raise ToolError(f"These files are not PDFs: {', '.join(invalid)}")
+pdf_toolkit.models.ToolError: These files are not PDFs: Lecture-21.pptx
+2026-04-07 21:12:51,965 | ERROR | pdf_toolkit.utils.workers | Job failed
+Traceback (most recent call last):
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\utils\workers.py", line 46, in run
+    result = self.definition.executor(context)
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 154, in run
+    _validate_source_type(input_file, source_type)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 35, in _validate_source_type
+    raise ToolError(f"{source_type} to PDF expects one of these file types: {expected}.")
+pdf_toolkit.models.ToolError: Word to PDF expects one of these file types: .doc, .docx.
+2026-04-07 21:37:55,897 | ERROR | pdf_toolkit.utils.workers | Job failed
+Traceback (most recent call last):
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\utils\workers.py", line 46, in run
+    result = self.definition.executor(context)
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 186, in run
+    _validate_source_type(input_file, source_type)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 38, in _validate_source_type
+    raise ToolError(f"{source_type} to PDF expects one of these file types: {expected}.")
+pdf_toolkit.models.ToolError: Excel to PDF expects one of these file types: .xls, .xlsx.
+2026-04-07 21:42:24,877 | ERROR | pdf_toolkit.utils.workers | Job failed
+Traceback (most recent call last):
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\utils\workers.py", line 46, in run
+    result = self.definition.executor(context)
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\ui\tool_window.py", line 102, in batch_executor
+    result = definition.executor(single_context)
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 186, in run
+    _validate_source_type(input_file, source_type)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\adity\pdf-tool\pdf_toolkit\tools\office_to_pdf.py", line 42, in _validate_source_type
+    raise ToolError(f"Offline {source_type} to PDF currently supports {expected} files only.")
+pdf_toolkit.models.ToolError: Offline Excel to PDF currently supports .xlsx files only.

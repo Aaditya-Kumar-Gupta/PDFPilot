@@ -1,0 +1,10 @@
+--- sample1.pdf
++++ sample2.pdf
+@@ -1,2 +1 @@
+-Sample PDF 1
+SECRET CODE 123
+
+-Second page for split testing
+
++Sample PDF 2
+SECRET CODE 123

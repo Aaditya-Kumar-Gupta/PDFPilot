@@ -1,0 +1,23 @@
+﻿COMMAND: C:\Users\adity\pdf-tool\.venv\Scripts\python.exe -m unittest discover -s tests
+EXIT CODE: 0
+
+STDOUT:
+
+
+STDERR:
+.............[INFO] Start to convert C:\Users\adity\pdf-tool\runtime_tests\sample1.pdf
+[INFO] [1;36m[1/4] Opening document...[0m
+[INFO] [1;36m[2/4] Analyzing document...[0m
+[INFO] [1;36m[3/4] Parsing pages...[0m
+[INFO] (1/2) Page 1
+[INFO] (2/2) Page 2
+[INFO] [1;36m[4/4] Creating pages...[0m
+[INFO] (1/2) Page 1
+[INFO] (2/2) Page 2
+[INFO] Terminated in 0.05s.
+............
+----------------------------------------------------------------------
+Ran 25 tests in 26.040s
+
+OK
+

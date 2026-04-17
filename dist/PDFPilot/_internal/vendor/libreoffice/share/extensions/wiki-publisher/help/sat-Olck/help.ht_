@@ -1,0 +1,18 @@
+22 vnd.com.sun.star.wiki%3AsendDialog 14f MediaWiki ᱥᱮᱨᱵᱷᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ ᱟᱢᱟᱜ ᱰᱚᱠᱭᱩᱢᱮᱱᱴ ᱯᱟᱨᱥᱟᱞ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ᱾ ᱛᱟᱞᱠᱟ ᱨᱮ ᱢᱤᱫ ᱱᱟᱶᱟ ᱥᱮᱨᱵᱷᱟᱨ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 14f MediaWiki ᱥᱮᱨᱵᱷᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ ᱟᱢᱟᱜ ᱰᱚᱠᱭᱩᱢᱮᱱᱴ ᱯᱟᱨᱥᱟᱞ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ᱾ ᱛᱟᱞᱠᱟ ᱨᱮ ᱢᱤᱫ ᱱᱟᱶᱟ ᱥᱮᱨᱵᱷᱟᱨ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck e2 ᱱᱚᱣᱟ ᱵᱟᱠᱥᱟ ᱪᱤᱱᱦᱟᱹᱭ ᱢᱮ ᱞᱟᱦᱟ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱴᱤᱡ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱮᱠᱟᱛᱮ ᱪᱤᱱᱦᱟᱹᱭ ᱢᱮ᱾
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 23e ᱟᱢᱟᱜ ᱣᱤᱠᱤ ᱵᱚᱞᱚᱱ ᱨᱮᱭᱟᱜ ᱢᱟᱹᱪᱤ ᱮᱢ ᱢᱮ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱣᱤᱠᱤ ᱵᱚᱞᱚᱱ ᱨᱮᱭᱟᱜ ᱪᱮᱛᱟᱱ ᱵᱚᱦᱚᱜ ᱠᱟᱱᱟ ᱾ ᱱᱟᱶᱟ ᱵᱚᱞᱚᱱ ᱞᱟᱹᱜᱤᱫ, ᱱᱚᱣᱟ ᱣᱤᱠᱤ ᱨᱮ ᱥᱟᱛᱷᱟᱢ ᱫᱚ ᱵᱷᱮᱜᱟᱨ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱠᱛᱤᱭᱟ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱢᱮᱱᱟᱜ ᱥᱟᱛᱷᱟᱢ ᱮᱢ ᱮᱢ ᱮᱫᱟ, ᱟᱢᱟᱜ ᱟᱯᱞᱳᱰ ᱢᱮᱱᱟᱜ ᱣᱤᱠᱤ ᱵᱚᱞᱚᱱ ᱚᱞ ᱚᱪᱚᱜᱼᱟᱭ᱾
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck fd ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱣᱮᱵᱽ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱵᱟᱠᱚᱥ ᱪᱤᱱᱦᱟᱹᱭ ᱢᱮ ᱟᱨ ᱟᱯᱞᱳᱰ ᱟᱠᱟᱱ ᱣᱤᱠᱤ ᱥᱟᱦᱴᱟ ᱩᱫᱩᱜ ᱢᱮ᱾
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2b Enter an optional short summary or comment.
+1f vnd.com.sun.star.wiki%3Aaccount 3e Enter the URL of a MediaWiki server, starting with "https://".
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField c5 MediaWiki ᱥᱮᱨᱵᱷᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱮᱢ ᱢᱮ ᱾ ᱵᱤᱱ ᱵᱟᱰᱟᱭ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱹᱞᱤ ᱫᱚᱦᱚᱭ ᱢᱮ᱾
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3e Enter the URL of a MediaWiki server, starting with "https://".
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField dd MediaWiki ᱥᱮᱨᱵᱷᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱮᱢ ᱢᱮ᱾ ᱵᱤᱱ ᱵᱟᱰᱟᱭ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱹᱞᱤ ᱫᱚᱦᱚᱭ ᱢᱮ᱾
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 175 ᱥᱮᱥᱚᱱ ᱠᱚ ᱛᱟᱞᱟ ᱨᱮ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾ ᱢᱟᱥᱴᱚᱨ ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚ ᱪᱟᱹᱞᱩ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱠᱛᱤᱭᱟ; ᱧᱮᱞ ᱢᱮ ᱥᱟᱯᱟᱵ ᱠᱚ - ᱣᱤᱠᱟᱞᱯ ᱠᱚ - %PRODUCTNAME – ᱨᱩᱠᱷᱤᱭᱟᱹ᱾
+20 vnd.com.sun.star.wiki%3Aaboutbox 1ef ᱣᱤᱠᱤ ᱯᱟᱹᱵᱽᱞᱤᱥᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱟᱢ ᱟᱢᱟᱜ ᱱᱤᱛᱚᱜ ᱚᱱᱚᱞᱤᱭᱟᱹ ᱚᱱᱚᱞ ᱰᱚᱠᱭᱩᱢᱮᱱᱴ ᱢᱤᱫ MediaWiki ᱥᱮᱨᱵᱷᱟᱨ ᱨᱮ ᱟᱯᱞᱳᱰ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾ ᱟᱯᱞᱳᱰ ᱛᱟᱭᱚᱢ, ᱥᱟᱱᱟᱢ ᱣᱤᱠᱤ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱠᱚ ᱣᱤᱠᱤ ᱨᱮ ᱟᱢᱟᱜ ᱰᱚᱠᱭᱩᱢᱮᱱᱴ ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+1c vnd.com.sun.star.wiki%3Asend 5e Choose File - Send - To MediaWiki to upload the current Writer document to a MediaWiki server.
+20 vnd.com.sun.star.wiki%3Asettings 1d4 ᱱᱟᱶᱟ ᱣᱤᱠᱤ ᱥᱮᱨᱵᱷᱟᱨ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱨᱮ ᱞᱤᱱ ᱢᱮ᱾ᱢᱤᱫ ᱵᱚᱞᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱮᱠᱟᱣᱩᱱᱴ ᱥᱮᱴᱤᱝ ᱮᱰᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱰᱤᱴ ᱨᱮ ᱞᱤᱱ ᱢᱮ᱾ᱢᱤᱫ ᱵᱚᱞᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱚᱪᱚᱜ ᱨᱮ ᱞᱤᱱ ᱢᱮ ᱛᱟᱞᱠᱟ ᱠᱷᱚᱱ ᱵᱚᱞᱚᱱ ᱚᱪᱚᱜ ᱞᱟᱹᱜᱤᱫ᱾
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 5f ᱛᱟᱞᱠᱟ ᱠᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱵᱚᱞᱚᱱ ᱚᱪᱚᱜᱟ᱾
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 96 ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱵᱚᱞᱚᱱ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ MediaWiki ᱰᱟᱭᱞᱚᱜᱽ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 1d4 ᱱᱟᱶᱟ ᱣᱤᱠᱤ ᱥᱮᱨᱵᱷᱟᱨ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱨᱮ ᱞᱤᱱ ᱢᱮ᱾ᱢᱤᱫ ᱵᱚᱞᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱮᱠᱟᱣᱩᱱᱴ ᱥᱮᱴᱤᱝ ᱮᱰᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱰᱤᱴ ᱨᱮ ᱞᱤᱱ ᱢᱮ᱾ᱢᱤᱫ ᱵᱚᱞᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱚᱪᱚᱜ ᱨᱮ ᱞᱤᱱ ᱢᱮ ᱛᱟᱞᱠᱟ ᱠᱷᱚᱱ ᱵᱚᱞᱚᱱ ᱚᱪᱚᱜ ᱞᱟᱹᱜᱤᱫ᱾
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 9b ᱛᱟᱞᱠᱟ ᱨᱮ ᱢᱤᱫ ᱱᱟᱣᱟ ᱵᱚᱞᱚᱱ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ MediaWiki ᱰᱟᱭᱞᱚᱜᱽ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾

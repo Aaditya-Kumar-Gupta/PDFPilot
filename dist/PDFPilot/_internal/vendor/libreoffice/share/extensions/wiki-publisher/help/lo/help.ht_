@@ -1,0 +1,18 @@
+22 vnd.com.sun.star.wiki%3AsendDialog 110 ເລືອກເຊີບເວີ MediaWiki ທີ່ທ່ານຕ້ອງການເຜີຍແຜ່ ເອກະສານຂອງທ່ານ. ຄລິກ ເພີ່ມ ເພື່ອເພີ່ມເຊີບເວີໃໝ່ໃສ່ລາຍການ.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 110 ເລືອກເຊີບເວີ MediaWiki ທີ່ທ່ານຕ້ອງການເຜີຍແຜ່ ເອກະສານຂອງທ່ານ. ຄລິກ ເພີ່ມ ເພື່ອເພີ່ມເຊີບເວີໃໝ່ໃສ່ລາຍການ.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 117 ໝາຍໃສ່ກ່ອງນີ້ເພື່ອໝາຍ ໜ້າທີ່ອັບໂຫຼດວ່າເປັນການແກ້ໄຂເລັກນ້ອຍຂອງໜ້າທີ່ມີຢູ່ແລ້ວທີ່ມີຫົວຂໍ້ ດຽວກັນ.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 21c ປ້ອນຫົວຂໍ້ຂອງລາຍການ wiki ຂອງທ່ານ. ນີ້ແມ່ນຫົວຂໍ້ເທິງສຸດ ຂອງລາຍການ wiki ຂອງທ່ານ. ສຳລັບລາຍການໃໝ່, ຫົວຂໍ້ຕ້ອງບໍ່ຊ້ຳກັນໃນ wiki ນີ້. ຖ້າທ່ານປ້ອນຫົວຂໍ້ທີ່ມີຢູ່ແລ້ວ, ການອັບໂຫຼດຂອງທ່ານຈະຂຽນທັບລາຍການ wiki ທີ່ມີຢູ່.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck d9 ໝາຍໃສ່ກ່ອງນີ້ເພື່ອເປີດ ເວັບບຣາວເຊີຂອງລະບົບຂອງທ່ານ ແລະ ສະແດງໜ້າ wiki ທີ່ອັບໂຫຼດ.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 81 ປ້ອນບົດສະຫຼຸບສັ້ນໆ ຫຼື ຄຳເຫັນທີ່ເປັນທາງເລືອກ.
+1f vnd.com.sun.star.wiki%3Aaccount 6e ປ້ອນ URL ຂອງເຊີບເວີ MediaWiki, ເລີ່ມຕົ້ນດ້ວຍ "https://".
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField e5 ປ້ອນລະຫັດຜ່ານຂອງທ່ານໃນເຊີບເວີ MediaWiki. ປະຫວ່າງໄວ້ສຳລັບການເຂົ້າເຖິງແບບບໍ່ລະບຸຕົວຕົນ.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 6e ປ້ອນ URL ຂອງເຊີບເວີ MediaWiki, ເລີ່ມຕົ້ນດ້ວຍ "https://".
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField e5 ປ້ອນຊື່ຜູ້ໃຊ້ຂອງທ່ານໃນເຊີບເວີ MediaWiki. ປະຫວ່າງໄວ້ສຳລັບການເຂົ້າເຖິງແບບບໍ່ລະບຸຕົວຕົນ.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 154 ເປີດໃຊ້ງານເພື່ອບັນທຶກລະຫັດຜ່ານຂອງທ່ານລະຫວ່າງ ເຊດຊັນ. ຕ້ອງເປີດໃຊ້ລະຫັດຜ່ານຫຼັກ; ເບິ່ງ ເຄື່ອງມື - ຕົວເລືອກ - %PRODUCTNAME - ຄວາມປອດໄພ.
+20 vnd.com.sun.star.wiki%3Aaboutbox 19e ໂດຍການນຳໃຊ້ Wiki Publisher ທ່ານສາມາດອັບໂຫຼດເອກະສານຂໍ້ຄວາມ Writer ປະຈຸບັນຂອງທ່ານໄປຍັງເຊີບເວີ MediaWiki. ຫຼັງຈາກອັບໂຫຼດ, ຜູ້ໃຊ້ wiki ທຸກຄົນສາມາດອ່ານເອກະສານຂອງທ່ານໃນ wiki ໄດ້.
+1c vnd.com.sun.star.wiki%3Asend cd ເລືອກ ໄຟລ໌ - ສົ່ງ - ໄປຍັງ MediaWiki ເພື່ອອັບໂຫຼດເອກະສານ Writer ປະຈຸບັນໄປຍັງເຊີບເວີ MediaWiki.
+20 vnd.com.sun.star.wiki%3Asettings 190 ຄລິກ ເພີ່ມ ເພື່ອເພີ່ມເຊີບເວີ wiki ໃໝ່.ເລືອກລາຍການ ແລະ ຄລິກ ແກ້ໄຂ ເພື່ອແກ້ໄຂການຕັ້ງຄ່າບັນຊີ.ເລືອກລາຍການ ແລະ ຄລິກ ລຶບອອກ ເພື່ອລຶບລາຍການອອກຈາກລາຍການ.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 59 ລຶບລາຍການທີ່ເລືອກອອກຈາກ ລາຍການ.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 7f ເປີດກ່ອງໂຕ້ຕອບ MediaWiki ເພື່ອແກ້ໄຂ ລາຍການທີ່ເລືອກ.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 190 ຄລິກ ເພີ່ມ ເພື່ອເພີ່ມເຊີບເວີ wiki ໃໝ່.ເລືອກລາຍການ ແລະ ຄລິກ ແກ້ໄຂ ເພື່ອແກ້ໄຂການຕັ້ງຄ່າບັນຊີ.ເລືອກລາຍການ ແລະ ຄລິກ ລຶບອອກ ເພື່ອລຶບລາຍການອອກຈາກລາຍການ.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 8b ເປີດກ່ອງໂຕ້ຕອບ MediaWiki ເພື່ອເພີ່ມ ລາຍການໃໝ່ໃສ່ລາຍການ.

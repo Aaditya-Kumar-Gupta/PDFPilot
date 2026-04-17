@@ -1,0 +1,1 @@
+Der Wiki Publisher ermöglicht die Erstellung von Wiki-Artikel auf MediaWiki-Servern, ohne die Syntax der MediaWiki-Markup-Sprache zu kennen. Neue und bestehende Dokumente können transparent aus Writer heraus auf einer Wiki-Seite veröffentlicht werden.

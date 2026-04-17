@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:d="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <platform value="all" />
+    <version value="3.3" />
+    <identifier value="Lilak.Persian.Hunspell.Dictionary.by.Mostafa.Sedaghat.Joo" />
+    <display-name>
+        <name lang="en-US">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ab">Лилак, персидиатәи аорфографиатә жәар</name>
+        <name lang="af">Lilak, Persiese Spellingwoordeboek</name>
+        <name lang="am">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ar">ليلك، قاموس تدقيق الإملاء الفارسي</name>
+        <name lang="as">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ast">Lilak, diccionariu ortográficu persa</name>
+        <name lang="be">Лілак, Персідскі Слоўнік Праверкі Арфаграфіі</name>
+        <name lang="bg">Лилак, персийски правописен речник</name>
+        <name lang="bn">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="bn-IN">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="bo">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="br">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="brx">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="bs">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ca">Persa: corrector ortogràfic Lilak</name>
+        <name lang="ca-valencia">Persa: corrector ortogràfic Lilak</name>
+        <name lang="ckb">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="cs">Lilak, perský slovník na kontrolu pravopisu</name>
+        <name lang="cy">Lilak, Geiriadur Gwirio Sillafu Persiaidd</name>
+        <name lang="da">Lilak, persisk stavekontrolordbog</name>
+        <name lang="de">Lilak, persisches Wörterbuch für Rechtschreibprüfung</name>
+        <name lang="dgo">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="dsb">Lilak, pšawopisny słownik persišćiny</name>
+        <name lang="dz">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="el">Λίλακ, Περσικό λεξικό ορθογραφικού ελέγχου</name>
+        <name lang="en-GB">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="en-ZA">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="eo">Lilak, Persa literumkontrolilo</name>
+        <name lang="es">Persa (Lilak): corrector ortográfico</name>
+        <name lang="et">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="eu">Lilak, persieraren ortografia-egiaztatzailea</name>
+        <name lang="fa">لیلک، واژه نامهٔ بررسی املایی فارسی</name>
+        <name lang="fi">Lilak, persian oikolukusanasto</name>
+        <name lang="fr">Lilak, Dictionnaire orthographique persan</name>
+        <name lang="fur">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="fy">Lilak, persyske staverings wurdboek</name>
+        <name lang="ga">Lilak, Foclóir Seiceála Litrithe Peirsis</name>
+        <name lang="gd">Lilak, faclair dearbhadh-litreachaidh na Peirsise</name>
+        <name lang="gl">Lilak, dicionario ortográfico persa</name>
+        <name lang="gu">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="gug">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="he">לילך, מילון בדיקת איות בפרסית</name>
+        <name lang="hi">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="hr">Lilak, perzijski rječnik provjere pravopisa</name>
+        <name lang="hsb">Lilak, prawopisny słownik persišćiny</name>
+        <name lang="hu">Lilak, a perzsa helyesírás-ellenőrző szótár</name>
+        <name lang="hy">Լիլակ, Պարսկական ուղղագրության բառարան</name>
+        <name lang="id">Lilak, Kamus Pemeriksaan Ejaan Persia</name>
+        <name lang="is">Stafsetningarorðasafn fyrir Lilak, Persnesku</name>
+        <name lang="it">Dizionario di controllo ortografico persiano Lilak</name>
+        <name lang="ja">Lilakペルシア語スペルチェック辞書</name>
+        <name lang="ka">Lilak - სპარსული მართლწერის შემოწმების ლექსიკონი</name>
+        <name lang="kab">Lilak, asegzawal n taɣdirawalt tafarsit.</name>
+        <name lang="kk">Lilak, парсы емлені тексеру сөздігі</name>
+        <name lang="km">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="kmr-Latn">Ferhenga rastnivîsa Lîlak, Farisî</name>
+        <name lang="kn">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ko">Lilak, 페르시아어 맞춤법 검사 사전</name>
+        <name lang="kok">लिलाक, फारसी वर्तनशः तपासणी शब्दकोश</name>
+        <name lang="ks">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="lb">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="lo">Lilak, ວັດຈະນານຸກົມກວດສອບການສະກົດຄຳ ພາສາເປີເຊຍ</name>
+        <name lang="lt">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="lv">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="mai">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="mk">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ml">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="mn">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="mni">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="mr">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="my">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="nb">Lilak, persisk stavekontrollordbok</name>
+        <name lang="ne">लिलाक फारसी हिज्जे जाँच शब्दकोश</name>
+        <name lang="nl">Lilak, Perzisch woordenboek voor spellingcontrole</name>
+        <name lang="nn">Lilak, persisk stavekontrollordbok</name>
+        <name lang="nr">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="nso">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="oc">Lilak, diccionari ortografic pèrse</name>
+        <name lang="om">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="or">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="pa-IN">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="pl">Lilak, perski słownik ortograficzny</name>
+        <name lang="pt">Dicionário de verificação ortográfica em persa (Lilak)</name>
+        <name lang="pt-BR">Dicionário de verificação ortográfica em persa (Lilak)</name>
+        <name lang="ro">Dicționar ortografic pentru lilak, persană</name>
+        <name lang="ru">Лилак, персидский орфографический словарь</name>
+        <name lang="rw">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sa-IN">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sat">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sat-Olck">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sd">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="si">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sid">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sk">Lilak, perzský slovník na kontrolu pravopisu</name>
+        <name lang="sl">Perzijski jezik – slovar za preverjanje črkovanja (Lilak)</name>
+        <name lang="sq">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sr">Лилак, персијски речник за проверу писања</name>
+        <name lang="sr-Latn">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ss">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="st">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="sv">Lilak, Persisk - stavningskontrollordlista</name>
+        <name lang="sw-TZ">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="szl">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ta">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="te">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="tg">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="th">Lilak, พจนานุกรมสะกดคำภาษาเปอร์เซีย</name>
+        <name lang="tl">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="tn">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="tr">Lilak, Farsça Yazım Denetimi Sözlüğü</name>
+        <name lang="ts">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="tt">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ug">لىلاك، پارىسچە ئىملا لۇغىتى</name>
+        <name lang="uk">Лілак, перський словник перевірки орфографії</name>
+        <name lang="uz">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="ve">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="vec">Coretor ortogràfego de'l Persian (Lilak)</name>
+        <name lang="vi">Lilak, Từ điển Kiểm tra Chính tả Tiếng Ba Tư</name>
+        <name lang="xh">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="zh-CN">波斯语拼写词典 Lilak</name>
+        <name lang="zh-TW">Lilak，波斯文拼字檢查字典</name>
+        <name lang="zu">Lilak, Persian Spell Checking Dictionary</name>
+        <name lang="fa">لیلک، غلط‌ یاب فارسی</name>
+    </display-name>
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.4" d:name="OpenOffice.org 3.4" />
+    </dependencies>
+    <icon>
+        <default xlink:href="icon.png" />
+    </icon>
+    <publisher>
+        <name xlink:href="http://github.com/b00f/lilak" lang="en">Mostafa Sedaghat Joo</name>
+    </publisher>
+</description>

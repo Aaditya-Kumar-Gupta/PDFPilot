@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2026.01.18" />
+    <identifier value="dict-mn" />
+    <display-name>
+        <name lang="en-US">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ab">Монголиатәи аорфографиатә жәари аиагара аԥҟарақәеи</name>
+        <name lang="af">Mongoolse spelling en koppelteken woordeboeke</name>
+        <name lang="am">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ar">قواميس الإملاء والواصلات للمنغولية</name>
+        <name lang="as">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ast">Diccionariu ortográficu y de separación de palabres del mongol</name>
+        <name lang="be">Мангольскі арфаграфічны слоўнік і правілы пераносу</name>
+        <name lang="bg">Монголски речници за правопис и сричкопренасяне</name>
+        <name lang="bn">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="bn-IN">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="bo">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="br">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="brx">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="bs">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ca">Mongol: corrector ortogràfic i partició de mots</name>
+        <name lang="ca-valencia">Mongol: corrector ortogràfic i partició de mots</name>
+        <name lang="ckb">فەرهەنگی هەڵەچن و پێکبەستنی مەنگۆلی</name>
+        <name lang="cs">Slovník pro kontrolu pravopisu a dělení slov pro mongolštinu</name>
+        <name lang="cy">Mongolieg - geiriaduron sillafu a chyplysnodi</name>
+        <name lang="da">Mongolskeretskrivnings- og orddelingsordbog</name>
+        <name lang="de">Mongolisches Wörterbuch für Rechtschreibprüfung und Silbentrennung</name>
+        <name lang="dgo">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="dsb">Pšawopisne słowniki a źělenje złožkow za mongolšćinu</name>
+        <name lang="dz">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="el">Μογγολικό λεξικό ορθογραφίας και συλλαβισμού</name>
+        <name lang="en-GB">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="en-ZA">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="eo">Literumada kaj vortdivida vortaroj por la mongola</name>
+        <name lang="es">Mongol: corrector ortográfico y reglas de silabación</name>
+        <name lang="et">Mongoli keele õigekirjakontrolli sõnastik ja poolitusreeglid</name>
+        <name lang="eu">Mongolieraren ortografia-egiaztatzailea eta hitzak zatitzeko arauak</name>
+        <name lang="fa">واژه‌نامه‌های املایی و  خط‌فاصله‌گذاری مغولی</name>
+        <name lang="fi">Mongolin oikoluku- ja tavutussanastot</name>
+        <name lang="fr">Dictionnaires d'orthographe et de césure pour le mongol</name>
+        <name lang="fur">Corretôr ortografic e di silabazion pal mongul</name>
+        <name lang="fy">Mongoalske wurdboek foar stavering en wurdôfbrekkingsregels</name>
+        <name lang="ga">Foclóirí i gcomhair litreoir agus fleiscíneoir don Mhongóilis</name>
+        <name lang="gd">Faclairean litreachadh is tàthanachadh na Mongoilise</name>
+        <name lang="gl">Dicionario ortográfico e de guionización do mongol</name>
+        <name lang="gu">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="gug">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="he">מילוני איות ופיסוק למונגולית</name>
+        <name lang="hi">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="hr">Provjera pravopisa i pravila rastavljanja riječi za mongolski jezik</name>
+        <name lang="hsb">Prawopisne słowniki a dźělenje złóžkow za mongolšćinu</name>
+        <name lang="hu">Mongol helyesírási szótár és elválasztási szabályok</name>
+        <name lang="hy">Մոնղոլական ուղղագրության և տողադարձի բառարաններ</name>
+        <name lang="id">Kamus ejaan dan pemenggalan kata bahasa Mongolia</name>
+        <name lang="is">Mongólsk stafsetningarorðabók og orðskiptisafn</name>
+        <name lang="it">Correttore ortografico e di sillabazione per il mongolo</name>
+        <name lang="ja">モンゴル語スペル辞書とハイフネーション規則</name>
+        <name lang="ka">მონღოლური მართლწერისა და გადატანის ლექსიკონები</name>
+        <name lang="kab">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="kk">Моңғол емле және тасымалдау сөздіктері</name>
+        <name lang="km">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="kmr-Latn">Ferhenga rastnivîs û kîtekirina Moxolî</name>
+        <name lang="kn">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ko">몽골어 맞춤법 및 하이픈 넣기 사전</name>
+        <name lang="kok">मंगोलियन स्पेलिंग आणि हायफनेशन शब्दकोश</name>
+        <name lang="ks">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="lb">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="lo">ວັດຈະນານຸກົມການສະກົດຄຳ ແລະ ການຂີດຕໍ່ພະຍາງ ພາສາມົງໂກລີ</name>
+        <name lang="lt">Mongolų kalbos rašybos tikrinimo ir žodžių kėlybos žodynai</name>
+        <name lang="lv">Mongoļu pareizrakstības un zilbjdales vārdnīcas</name>
+        <name lang="mai">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="mk">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ml">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="mn">Монгол хэлний зөв бичих, таслах толь бичиг</name>
+        <name lang="mni">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="mr">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="my">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="nb">Mongolsk ordbok for staving og orddeling</name>
+        <name lang="ne">मङ्गोलियाली हिज्जेजाँच र हाइफनकर्ता  शब्दकोश</name>
+        <name lang="nl">Mongoolse woordenboeken voor spelling en woordafbreking</name>
+        <name lang="nn">Ordbøker for rettskriving og orddeling for mongolsk</name>
+        <name lang="nr">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="nso">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="oc">Diccionari ortografic e règlas de copadura dels mots mongolics</name>
+        <name lang="om">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="or">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="pa-IN">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="pl">Mongolski słownik ortograficzny i reguł dzielenia wyrazów</name>
+        <name lang="pt">Dicionário ortográfico e de hifenização em mongol</name>
+        <name lang="pt-BR">Dicionário ortográfico e de hifenização em mongol</name>
+        <name lang="ro">Dicționar ortografic și reguli de despărțire în silabe pentru mongolă</name>
+        <name lang="ru">Монгольский орфографический словарь и правила переноса</name>
+        <name lang="rw">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sa-IN">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sat">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sat-Olck">ᱢᱚᱱᱜᱚᱞᱤᱭᱟᱹᱭ ᱵᱚᱱᱟᱱ ᱟᱨ ᱯᱷᱟᱹᱨᱠᱟᱹᱤᱭᱟᱹ ᱟᱹᱲᱟᱹ ᱜᱟᱫᱮᱞ ᱠᱚ</name>
+        <name lang="sd">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="si">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sid">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sk">Slovník pre kontrolu pravopisu a delenie slov pre mongolčinu</name>
+        <name lang="sl">Mongolski jezik – slovar za preverjanje črkovanja in vzorci za deljenje besed</name>
+        <name lang="sq">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sr">Монголска правила писања и речник синонима</name>
+        <name lang="sr-Latn">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ss">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="st">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="sv">Mongoliska ordlistor för stavning och avstavning</name>
+        <name lang="sw-TZ">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="szl">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ta">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="te">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="tg">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="th">พจนานุกรมสะกดคำและการแทรกยัติภังค์ภาษามองโกเลีย</name>
+        <name lang="tl">Mongolian spelling at hyphenation na mga diksyunaryo</name>
+        <name lang="tn">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="tr">Moğolca imla ve heceleme sözlükleri</name>
+        <name lang="ts">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="tt">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ug">موڭغۇلچە ئىملا ۋە ھەرپ ئۇلاش قائىدىسى لۇغىتى</name>
+        <name lang="uk">Монгольські словники орфографії та переносів</name>
+        <name lang="uz">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="ve">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="vec">Coretor ortogràfego e règołe de siłabasion de'l Móngoło</name>
+        <name lang="vi">Từ điển chính tả và gạch nối tiếng Mông Cổ</name>
+        <name lang="xh">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="zh-CN">蒙古语拼写词典与断词规则</name>
+        <name lang="zh-TW">蒙古文拼寫詞典與斷字處理詞典</name>
+        <name lang="zu">Mongolian spelling and hyphenation dictionaries</name>
+        <name lang="mn">Монгол үгийн алдаа шалгах болон үеэр таслагч толь</name>
+    </display-name>
+    <publisher>
+        <name xlink:href="https://bataak.github.io/dict-mn/" lang="mn">Батаак</name>
+        <name xlink:href="https://bataak.github.io/dict-mn/" lang="en-US">Bataak</name>
+    </publisher>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <registration>
+    <simple-license  accept-by="admin" default-license-id="ID0" suppress-on-update="true" >
+        <license-text xlink:href="lppl.txt" lang="en" license-id="ID0" />
+    </simple-license>
+    </registration>
+    <icon>
+        <default xlink:href="DictMN.png" />
+    </icon>
+</description>

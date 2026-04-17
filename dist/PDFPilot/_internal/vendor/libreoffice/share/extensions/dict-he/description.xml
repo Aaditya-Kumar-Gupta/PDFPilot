@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2017.09.03" />
+    <identifier value="Hebrew.dictionary.from.hspell.ivrix.org.il" />
+    <display-name>
+        <name lang="en-US">Hebrew spelling dictionary</name>
+        <name lang="ab">Иврит аорфографиатә жәар</name>
+        <name lang="af">Hebreeus spelling woordeboek</name>
+        <name lang="am">Hebrew spelling dictionary</name>
+        <name lang="ar">قاموس التدقيق الإملائي للُّغة العبرية</name>
+        <name lang="as">হিব্ৰিউ বানান শব্দকোষ</name>
+        <name lang="ast">Diccionariu ortográficu pal hebréu</name>
+        <name lang="be">Іўрыт, правапісны слоўнік</name>
+        <name lang="bg">Правописен речник за иврит</name>
+        <name lang="bn">Hebrew spelling dictionary</name>
+        <name lang="bn-IN">হিব্রু  বানান অভিধান</name>
+        <name lang="bo">Hebrew spelling dictionary</name>
+        <name lang="br">Geriadur ar reizhskrivañ evit an hebraeg</name>
+        <name lang="brx">Hebrew spelling dictionary</name>
+        <name lang="bs">Rječnik pravopisa za hebrejski jezik</name>
+        <name lang="ca">Hebreu: corrector ortogràfic</name>
+        <name lang="ca-valencia">Hebreu: corrector ortogràfic</name>
+        <name lang="ckb">فەرهەنگی هەڵەی ڕێنووسی زمانی عبری</name>
+        <name lang="cs">Slovník kontroly pravopisu pro hebrejštinu</name>
+        <name lang="cy">Hebraeg - geiriadur sillafu</name>
+        <name lang="da">Hebræisk stavekontrol</name>
+        <name lang="de">Hebräisches Wörterbuch für Rechtschreibprüfung</name>
+        <name lang="dgo">हिब्रू शब्द-जोड़ शब्दकोश</name>
+        <name lang="dsb">Hebrejski pšawopisny słownik</name>
+        <name lang="dz">Hebrew spelling dictionary</name>
+        <name lang="el">Εβραϊκό ορθογραφικό λεξικό</name>
+        <name lang="en-GB">Hebrew spelling dictionary</name>
+        <name lang="en-ZA">Hebrew spelling dictionary</name>
+        <name lang="eo">Hebrea ortografia vortaro</name>
+        <name lang="es">Hebreo: corrector ortográfico</name>
+        <name lang="et">Heebrea keele õigekirjakontrolli sõnastik</name>
+        <name lang="eu">Hebreeraren ortografia-egiaztatzailea</name>
+        <name lang="fa">واژه‌نام املایی عبری</name>
+        <name lang="fi">Heprean oikolukusanasto</name>
+        <name lang="fr">Dictionnaire orthographique hébreu</name>
+        <name lang="fur">Dizionari ortografic ebraic</name>
+        <name lang="fy">Hebriuwske stavering wurdboek</name>
+        <name lang="ga">Foclóir litrithe na hEabhraise</name>
+        <name lang="gd">Faclair litreachadh na h-Eabhra</name>
+        <name lang="gl">Dicionario ortográfico do hebreo</name>
+        <name lang="gu">હેબ્રુ જોડણી ચકાસણી શબ્દકોષ</name>
+        <name lang="gug">Ñe'ẽryru ortográfico Hebreo</name>
+        <name lang="he">מילון איות עברי</name>
+        <name lang="hi">हीब्रू वर्तनी शब्दकोश</name>
+        <name lang="hr">Pravopisni rječnik hebrejskog jezika</name>
+        <name lang="hsb">Hebrejski prawopisny słownik</name>
+        <name lang="hu">Héber helyesírási szótár</name>
+        <name lang="hy">Եբրայերեն ուղղագրական բառարան</name>
+        <name lang="id">Kamus ejaan bahasa Ibrani</name>
+        <name lang="is">Hebreskt stafsetningarorðasafn</name>
+        <name lang="it">Dizionario ortografico ebraico</name>
+        <name lang="ja">ヘブライ語スペル辞書</name>
+        <name lang="ka">ივრითის მართლწერის ლექსიკონი</name>
+        <name lang="kab">Amawal n teɣdira tɛebrit</name>
+        <name lang="kk">Иврит емле сөздігі</name>
+        <name lang="km">វចនានុក្រម​អក្ខរាវិរុទ្ធ​ភាសា​ហេប្រូ</name>
+        <name lang="kmr-Latn">Terhenga rastnivîsa Îbranî</name>
+        <name lang="kn">ಹೀಬ್ರೂ ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ ಶಬ್ಧಕೋಶ</name>
+        <name lang="ko">히브리어 맞춤법 사전</name>
+        <name lang="kok">हिब्र्यू वर्णरचना शब्दकोशHebrew OkxorRochona Xobdkox</name>
+        <name lang="ks">Hebrew spelling dictionary</name>
+        <name lang="lb">Hebrew spelling dictionary</name>
+        <name lang="lo">ພົດຈະນານຸກົມສະກົດຄຳພາສາ Hebrew</name>
+        <name lang="lt">Hebrajų kalbos rašybos tikrinimo žodynas</name>
+        <name lang="lv">Ivrita pareizrakstības vārdnīca</name>
+        <name lang="mai">Hebrew spelling dictionary</name>
+        <name lang="mk">Hebrew spelling dictionary</name>
+        <name lang="ml">ഹീബ്രൂ സ്പെല്ലിങ് നിഘണ്ടു</name>
+        <name lang="mn">Хебрей хэлний зөв бичгийн дүрмийн толь бичиг</name>
+        <name lang="mni">হিব্রু বানানগী দিক্সনারি</name>
+        <name lang="mr">हिब्रू शुध्दलेखन शब्दकोश</name>
+        <name lang="my">ထိုင်းစာလုံးပေါင်းအဘိဓာန်</name>
+        <name lang="nb">Hebraisk stavekontroll</name>
+        <name lang="ne">हिब्रू हिज्जे शब्दकोश</name>
+        <name lang="nl">Hebreeuws spelling woordenboek</name>
+        <name lang="nn">Hebraisk stavekontroll</name>
+        <name lang="nr">Hebrew spelling dictionary</name>
+        <name lang="nso">Hebrew spelling dictionary</name>
+        <name lang="oc">Diccionari ortografic per l'ebrèu</name>
+        <name lang="om">Hebrew spelling dictionary</name>
+        <name lang="or">ହର୍ବ୍ୟୁ ବନାନ ଅବିଧାନ</name>
+        <name lang="pa-IN">ਹੈਬਰਿਊ ਸਪੈਲਿੰਗ ਡਿਕਸ਼ਨਰੀ</name>
+        <name lang="pl">Hebrajski słownik ortograficzny</name>
+        <name lang="pt">Dicionário ortográfico em hebraico</name>
+        <name lang="pt-BR">Dicionário ortográfico em hebraico</name>
+        <name lang="ro">Dicționar ortografic pentru ebraică</name>
+        <name lang="ru">Иврит орфографический словарь</name>
+        <name lang="rw">Hebrew spelling dictionary</name>
+        <name lang="sa-IN">हिब्रू वर्णविन्यासकोशः</name>
+        <name lang="sat">हेब्रू बानान ञेल साबाद गादेल</name>
+        <name lang="sat-Olck">Hebrew spelling dictionary</name>
+        <name lang="sd">هيبرو هجي ڊڪشنري</name>
+        <name lang="si">Hebrew spelling dictionary</name>
+        <name lang="sid">Ibraawete fidalishshi qaallate fichaancho</name>
+        <name lang="sk">Hebrejský slovník na kontrolu pravopisu</name>
+        <name lang="sl">Hebrejski jezik – slovar za preverjanje črkovanja</name>
+        <name lang="sq">Fjalor drejtshkrimi hebraisht</name>
+        <name lang="sr">Хебрејски: провера писања</name>
+        <name lang="sr-Latn">Hebrejski: provera pisanja</name>
+        <name lang="ss">Hebrew spelling dictionary</name>
+        <name lang="st">Hebrew spelling dictionary</name>
+        <name lang="sv">Hebreisk stavningsordlista</name>
+        <name lang="sw-TZ">Hebrew spelling dictionary</name>
+        <name lang="szl">Hebrajski słownik ôrtograficzny</name>
+        <name lang="ta">ஹீப்ரு எழுத்துக்கூட்டு அகராதி</name>
+        <name lang="te">హెబ్రూ వుచ్ఛారణా నిఘంటువు</name>
+        <name lang="tg">Hebrew spelling dictionary</name>
+        <name lang="th">พจนานุกรมสะกดคำภาษาฮีบรู</name>
+        <name lang="tl">Hebrew spelling dictionary</name>
+        <name lang="tn">Hebrew spelling dictionary</name>
+        <name lang="tr">İbranice imla sözlüğü</name>
+        <name lang="ts">Hebrew spelling dictionary</name>
+        <name lang="tt">Иврит теленең орфография сүзлеге</name>
+        <name lang="ug">ئىبرانىچە ئىملا لۇغىتى</name>
+        <name lang="uk">Іврит орфографічний словник</name>
+        <name lang="uz">Hebrew spelling dictionary</name>
+        <name lang="ve">Hebrew spelling dictionary</name>
+        <name lang="vec">Disionaro ortogràfego Ebràego</name>
+        <name lang="vi">Từ điển chính tả Do Thái</name>
+        <name lang="xh">Hebrew spelling dictionary</name>
+        <name lang="zh-CN">希伯来语拼写词典</name>
+        <name lang="zh-TW">希伯來文拼寫詞典</name>
+        <name lang="zu">Hebrew spelling dictionary</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <publisher>
+        <name xlink:href="http://hspell.ivrix.org.il/" lang="en-US">The Hspell Project</name>
+        <name xlink:href="http://hspell.ivrix.org.il/" lang="he">פרוייקט Hspell</name>
+     </publisher>
+     <icon>
+        <default xlink:href="alphabet.png" />
+     </icon>
+</description>

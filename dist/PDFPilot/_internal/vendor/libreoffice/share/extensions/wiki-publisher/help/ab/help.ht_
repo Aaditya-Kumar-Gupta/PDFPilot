@@ -1,0 +1,18 @@
+22 vnd.com.sun.star.wiki%3AsendDialog bc Иалышәх асервер MediaWiki, зҟны адокумент апубликациа ҟаҵатәу. Асервер ҿыц ацҵаразы шәақәыӷәӷәаИацҵатәуп.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList bc Иалышәх асервер MediaWiki, зҟны адокумент апубликациа ҟаҵатәу. Асервер ҿыц ацҵаразы шәақәыӷәӷәаИацҵатәуп.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 6a Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText db Enter the title of your wiki entry. This is the top heading of your wiki entry. For a new entry, the title must be unique on this wiki. If you enter an existing title, your upload will overwrite the existing wiki entry.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 88 Иазгәашәҭ ари апараметр абраузер аартреи иҭагалоу Wiki-адаҟьа аарԥшреи рзы.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 74 Иҭажәгал ихымцадатәим, адаҟьа иазыкьаҿу ахҳәаа ма акомментари.
+1f vnd.com.sun.star.wiki%3Aaccount 65 Асервер MediaWiki азы иҭажәгал URL, «https://» аҟынтәи шәалаганы.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 75 Иҭажәгал MediaWiki ажәамаӡа. Аанонимла аҭаларазы иааншәыжь ишҭацәу.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 65 Асервер MediaWiki азы иҭажәгал URL, «https://» аҟынтәи шәалаганы.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 7c Иҭажәгал MediaWiki ахархәаҩ ихьӡ. Анонимла аҭаларазы иааншәыжь ишҭацәу.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox ea Иаҿашәк асеансқәа рыбжьара ажәамаӡа аиқәырхара. Ажәамаӡа-азҟаза аҿакызароуп, шахә. Асервис - Аараметрқәа - %PRODUCTNAME - Ашәарҭадара.
+20 vnd.com.sun.star.wiki%3Aaboutbox eb Wiki Publisher ахархәарала, иауеит Writer уажәтәи атексттә документ асервер MediaWiki ахь аҭагалара. Адокумент, Wiki аҟны зегьы ирбартә иҟалоит.
+1c vnd.com.sun.star.wiki%3Asend 81 ИалышәхАфаил - Ишьҭтәуп- MediaWiki адокумент асервер MediaWiki ахь аҭагаларазы.
+20 vnd.com.sun.star.wiki%3Asettings a2 Click Add to add a new wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 9 Асиа.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 65 Адиалог MediaWiki аартра, иалху аелемент аредакциа азуразы.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList a2 Click Add to add a new wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 5d Адиалог MediaWiki аартра, аелемент ҿыц асиахь ацҵаразы.
