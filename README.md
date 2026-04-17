@@ -4,16 +4,63 @@
 
 # PDFPilot
 
-**Powerful PDF tools. 100% offline.**
+**A private PDF command center for Windows.**
 
-PDFPilot is a fast, privacy-focused desktop application for Windows that helps you manage, convert, edit, optimize, and secure PDF files entirely on your computer. No cloud uploads, no tracking, no account required.
+PDFPilot brings everyday PDF work into one fast, offline desktop app: merge, split, organize, compress, OCR, convert, watermark, protect, unlock, redact, compare, and export files without sending documents to the cloud.
 
 [![Release](https://img.shields.io/github/v/release/Aaditya-Kumar-Gupta/PDFPilot?style=flat-square&color=5B8CFF&label=latest)](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=flat-square&color=0078D4)](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/releases/latest)
+[![Offline](https://img.shields.io/badge/workspace-100%25%20offline-00C9A7?style=flat-square)](#privacy-first)
 [![License](https://img.shields.io/github/license/Aaditya-Kumar-Gupta/PDFPilot?style=flat-square&color=00C9A7)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Aaditya-Kumar-Gupta/PDFPilot?style=flat-square&color=FFB842)](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/stargazers)
 
-[**Download**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/releases/latest) · [**Report a Bug**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/issues) · [**Request a Feature**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/issues)
+[**Download**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/releases/latest) · [**Website**](https://aaditya-kumar-gupta.github.io/PDFPilot/) · [**Report a Bug**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/issues) · [**Request a Feature**](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/issues)
+
+<br />
+
+<img src="assets/screenshots/00.png" alt="PDFPilot dark dashboard" width="92%" />
+
+</div>
+
+---
+
+## Why PDFPilot
+
+PDF tools are usually scattered across websites, subscriptions, browser tabs, and upload boxes. PDFPilot keeps the workflow local: choose a tool, drop in files, run the job, and keep the output on your machine.
+
+| Built For | What It Means |
+|---|---|
+| Private documents | Files are processed locally, not uploaded to a service |
+| Daily PDF work | 25 offline-ready tools grouped into clear libraries |
+| Windows desktops | Native desktop interface built with Python and PySide6 |
+| Portable releases | Installer and MSIX-oriented release workflows |
+| Real-world files | PDF, image, Office, OCR, archive, and security workflows |
+
+---
+
+## Screenshots
+
+<div align="center">
+
+| Dark Workspace | Light Workspace |
+|---|---|
+| <img src="assets/screenshots/01.png" alt="PDFPilot dark dashboard with sidebar" width="100%" /> | <img src="assets/screenshots/09.png" alt="PDFPilot light dashboard" width="100%" /> |
+
+| Organize | Optimize |
+|---|---|
+| <img src="assets/screenshots/02.png" alt="Organize PDF tools" width="100%" /> | <img src="assets/screenshots/03.png" alt="Optimize PDF tools" width="100%" /> |
+
+| Convert To PDF | Convert From PDF |
+|---|---|
+| <img src="assets/screenshots/04.png" alt="Convert to PDF tools" width="100%" /> | <img src="assets/screenshots/05.png" alt="Convert from PDF tools" width="100%" /> |
+
+| Edit | Security |
+|---|---|
+| <img src="assets/screenshots/06.png" alt="Edit PDF tools" width="100%" /> | <img src="assets/screenshots/07.png" alt="PDF security tools" width="100%" /> |
+
+| Settings |
+|---|
+| <img src="assets/screenshots/08.png" alt="PDFPilot settings page" width="100%" /> |
 
 </div>
 
@@ -32,7 +79,7 @@ PDFPilot runs locally using bundled and auto-detected desktop libraries. Your fi
 
 ---
 
-## Features
+## Tool Library
 
 ### Organize PDF
 
@@ -93,13 +140,13 @@ PDFPilot runs locally using bundled and auto-detected desktop libraries. Your fi
 
 ## Installation
 
-### Option 1: Windows Installer
+### Windows Installer
 
 1. Download `PDFPilot-Setup.exe` from [Releases](https://github.com/Aaditya-Kumar-Gupta/PDFPilot/releases/latest)
 2. Run the installer
 3. Launch PDFPilot
 
-### Option 2: Microsoft Store Package
+### Microsoft Store Package
 
 A Store-oriented MSIX package is available in the release workflow. Microsoft Store distribution is planned separately.
 
@@ -156,6 +203,17 @@ powershell -ExecutionPolicy Bypass -File .\scripts\build_release.ps1 -Flavor sto
 ```
 
 More build and release details are available in [BUILD.md](BUILD.md).
+
+---
+
+## Roadmap Ideas
+
+| Area | Direction |
+|---|---|
+| Release polish | Signed installer, Store listing, and reproducible release checks |
+| Workflow power | Presets, batch recipes, and saved output profiles |
+| Document review | Richer annotations, thumbnails, and visual comparison |
+| Accessibility | Keyboard-first flows and stronger screen-reader coverage |
 
 ---
 
