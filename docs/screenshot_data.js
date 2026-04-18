@@ -1,11 +1,11 @@
 const SCREENSHOT_BASE =
   "https://raw.githubusercontent.com/Aaditya-Kumar-Gupta/PDFPilot/main/assets/screenshots";
 
-const HERO_SCREENSHOT = `${SCREENSHOT_BASE}/00.png`;
+const HERO_SCREENSHOT = `${SCREENSHOT_BASE}/00.png?v=d5b09e93`;
 
 const SCREENSHOTS = [
   {
-    src: `${SCREENSHOT_BASE}/00.png`,
+    src: `${SCREENSHOT_BASE}/00.png?v=d5b09e93`,
     title: "Dashboard",
     desc: "A compact offline workspace with the full PDFPilot tool library in one place.",
   },
